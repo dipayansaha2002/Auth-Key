@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Password Manager
 
 ![Screenshot](/public/screenshots/screenshot.png)
@@ -54,6 +53,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries, please contact [Dipayan Saha](sahadipayan36@gmail.com).
-=======
-# Auth-Key
->>>>>>> bff0661d2daec48a7f39ad1fdb6881ba8054439f
