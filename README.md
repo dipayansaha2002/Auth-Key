@@ -1,6 +1,6 @@
 # Password Manager
 
-![Screenshot](/public/screenshots/screenshot.png)
+![Screenshot (202)](https://github.com/user-attachments/assets/bbb67d91-8a78-4b45-bfef-99759338528b)
 
 ## Description
 
